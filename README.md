@@ -3,6 +3,12 @@
 A desktop CRUD application. Users are created in a validated form, listed in a `JTable`, and updated or deleted from the same screen. All database access goes through JDBC with `PreparedStatement`.
 
 ## Screens
+<img width="1917" height="1015" alt="1_LAB7Screenshot 2026-11-15 221016" src="https://github.com/user-attachments/assets/55b7ecd4-bd76-43b4-8681-dd1659a101d3" />
+<img width="1917" height="1020" alt="2_LAB7Screenshot 2026-11-15 221102" src="https://github.com/user-attachments/assets/6ee04dd0-be09-4869-a938-4b5fa82e3217" />
+<img width="1917" height="1015" alt="3_LAB7Screenshot 2026-11-15 221145" src="https://github.com/user-attachments/assets/bea8941f-76ae-403a-b81e-012ec11875b0" />
+<img width="1917" height="1020" alt="4_LAB7Screenshot 2026-11-15 221248" src="https://github.com/user-attachments/assets/c252a0a5-df1e-4809-8622-f544d2b1d715" />
+
+
 
 **Form** — Create User: first/last name, gender, date of birth, age, phone, email, continent, experience, hobbies, and a photo chosen with a file browser and previewed before saving. Saving shows a confirmation dialog with the photo and the stored values.
 
