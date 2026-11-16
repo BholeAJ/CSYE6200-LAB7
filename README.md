@@ -4,11 +4,17 @@ A desktop CRUD application. Users are created in a validated form, listed in a `
 
 ## Screens
 
-<img width="1917" height="1015" alt="10_LAB7Screenshot 2026-11-16 122355" src="https://github.com/user-attachments/assets/4ce282ed-2495-4770-aa32-f508dc1b70cf" />
-<img width="1477" height="962" alt="8_LAB7Screenshot 2026-11-16 121816" src="https://github.com/user-attachments/assets/7b1b6ec2-cf37-41e4-ba09-e2eccae10483" />
-<img width="1487" height="962" alt="7_LAB7Screenshot 2026-11-16 121738" src="https://github.com/user-attachments/assets/015768b6-8d97-409d-a008-fb9061d861ea" />
+<img width="1916" height="1017" alt="New1Screenshot 2026-11-16 125432" src="https://github.com/user-attachments/assets/564d7c12-2fa6-4c27-ace9-a4c0ff1852b2" />
 
+<img width="1917" height="1020" alt="New2Screenshot 2026-11-16 125459" src="https://github.com/user-attachments/assets/27b11b25-edc2-4dbc-a22a-e88de143839f" />
 
+<img width="1917" height="1017" alt="New3Screenshot 2026-11-16 125532" src="https://github.com/user-attachments/assets/207388bd-f9ca-4b87-812d-a33f28883a89" />
+
+<img width="1917" height="1017" alt="New4Screenshot 2026-11-16 125620" src="https://github.com/user-attachments/assets/54294554-6cfa-48b9-96ac-835af618d493" />
+
+<img width="1917" height="1017" alt="New5Screenshot 2026-11-16 125649" src="https://github.com/user-attachments/assets/f66cb5d3-7f20-4403-bc86-a4955313610d" />
+
+<img width="1916" height="1015" alt="New6Screenshot 2026-11-16 125716" src="https://github.com/user-attachments/assets/a1628f6e-b143-41a4-9922-d7f8eb3e5f32" />
 
 
 **Form** — Create User: first/last name, gender, date of birth, age, phone, email, continent, experience, hobbies, and a photo chosen with a file browser and previewed before saving. Saving shows a confirmation dialog with the photo and the stored values.
