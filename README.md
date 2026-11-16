@@ -22,30 +22,6 @@ A desktop CRUD application. Users are created in a validated form, listed in a `
 | Update | `UPDATE users SET ... WHERE id = ?` |
 | Delete | `DELETE FROM users WHERE id = ?` |
 
-## Project structure
-
-```
-Lab7UserManagement/
-├── src/
-│   ├── db/DatabaseConnector.java     JDBC connection + startup check
-│   ├── model/User.java               POJO
-│   ├── dao/UserDAO.java              all SQL statements
-│   ├── util/
-│   │   ├── InputValidator.java       name/email/phone/date/age rules
-│   │   └── ImageUtil.java            loads and scales photos
-│   └── ui/
-│       ├── Main.java                 entry point
-│       ├── MainFrame.java            header + Form/View card switching
-│       ├── FormJPanel.java           VIEW 1 — Create User
-│       ├── ViewJPanel.java           VIEW 2 — JTable + edit/update/delete
-│       └── UserDetailsDialog.java    photo + details dialog
-├── sql/DatabaseQueries.sql           schema, unique index, sample rows
-├── lib/                              put mysql-connector-j.jar here
-├── nbproject/                        NetBeans project configuration
-├── build.xml                         Ant build script
-├── screenshots/
-└── README.md
-```
 
 ## Setup
 
