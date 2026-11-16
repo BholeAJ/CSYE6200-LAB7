@@ -3,10 +3,11 @@
 A desktop CRUD application. Users are created in a validated form, listed in a `JTable`, and updated or deleted from the same screen. All database access goes through JDBC with `PreparedStatement`.
 
 ## Screens
-<img width="1917" height="1015" alt="1_LAB7Screenshot 2026-11-15 221016" src="https://github.com/user-attachments/assets/55b7ecd4-bd76-43b4-8681-dd1659a101d3" />
-<img width="1917" height="1020" alt="2_LAB7Screenshot 2026-11-15 221102" src="https://github.com/user-attachments/assets/6ee04dd0-be09-4869-a938-4b5fa82e3217" />
-<img width="1917" height="1015" alt="3_LAB7Screenshot 2026-11-15 221145" src="https://github.com/user-attachments/assets/bea8941f-76ae-403a-b81e-012ec11875b0" />
-<img width="1917" height="1020" alt="4_LAB7Screenshot 2026-11-15 221248" src="https://github.com/user-attachments/assets/c252a0a5-df1e-4809-8622-f544d2b1d715" />
+
+<img width="1917" height="1015" alt="10_LAB7Screenshot 2026-11-16 122355" src="https://github.com/user-attachments/assets/4ce282ed-2495-4770-aa32-f508dc1b70cf" />
+<img width="1477" height="962" alt="8_LAB7Screenshot 2026-11-16 121816" src="https://github.com/user-attachments/assets/7b1b6ec2-cf37-41e4-ba09-e2eccae10483" />
+<img width="1487" height="962" alt="7_LAB7Screenshot 2026-11-16 121738" src="https://github.com/user-attachments/assets/015768b6-8d97-409d-a008-fb9061d861ea" />
+
 
 
 
